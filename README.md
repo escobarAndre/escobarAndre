@@ -1,4 +1,4 @@
-## Olá mundo, me chamo André Escobar e este é o meu ![GitHub Logo](/images/logo.png)
+#### Olá mundo, me chamo André Escobar e este é o meu
 
 
 ### Hi there 👋
