@@ -1,22 +1,10 @@
 ### 👋 Hi world, I'm André Escobar 
 
-###### 🔭 Atualmente trabalho na área de gastronomia e estou estudando para poder migrar para programação
-###### Algumas plataformas que utilizo para estudar: 
-<code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"></code>
+About me:
 
-### Hi there 👋
-
-<!--
-**escobarAndre/escobarAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    💻 Estudante de programação
+    🔭 Atualmente trabalho na área de gastronomia e estou estudando para poder migrar para programação.
+    🔥 A procura de uma oprtunidade de trabalho.
+    🚀 Algumas tecnologias que estudo: CSS, HTML, JavaScript, Node, SQL.
+    📫 Como me encontrar: linkedIn, mail, discord.
+   
