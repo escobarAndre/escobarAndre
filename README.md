@@ -1,4 +1,4 @@
-### 👋 Olá mundo, me chamo André Escobar e este é o meu
+### 👋 Hi world, I'm André Escobar 
 
 
 ### Hi there 👋
