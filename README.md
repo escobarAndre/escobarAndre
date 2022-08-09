@@ -3,8 +3,7 @@
 Sobre mim:
 
 - 💻 Estudante de programação
-- 🔭 Atualmente trabalho na área de gastronomia e estou estudando para poder migrar para programação.
-- 🔥 A procura de uma oportunidade de trabalho.
-- 🚀 Algumas tecnologias que estudo: CSS, HTML, JavaScript, Node, SQL.
+- 🔭 Atualmente empregado como engenheiro de software frontend na @Pilar.
+- 🚀 Principais tecnologias: HTML, CSS, JavaScript, Node, VueJs, ReactJs.
 - 📫 Como me encontrar: linkedIn, mail, discord.
    
